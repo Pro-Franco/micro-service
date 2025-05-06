@@ -9,7 +9,7 @@
 
 ![Badge](https://img.shields.io/badge/Status-Ativo-brightgreen) ![License](https://img.shields.io/badge/License-MIT-blue) ![Version](https://img.shields.io/badge/Version-1.0.0-lightgrey)
 
-Este é um projeto de **Micro serviços** desenvolvido com **Java-script e Typescript**. O objetivo é fornecer subsidio de forma intuitiva e moderna para aprendizado de Arquitetura de Software.
+Este é um projeto de **Micro serviços** desenvolvido com **Java-script e Typescript**. O objetivo é fornecer subsídio de forma intuitiva e moderna para aprendizado de Arquitetura de Software.
 
 ## 🚀 Tecnologias Usadas
 
@@ -21,7 +21,7 @@ Este é um projeto de **Micro serviços** desenvolvido com **Java-script e Types
 
 
 
-## Objetivo: Demonstrar o uso de micro serviços da materia de ARS
+## Objetivo: Demonstrar o uso de micro serviços da matéria de ARS
 
 ## Inicar o projeto siga as intruções a seguir
 
